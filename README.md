@@ -1,2 +1,4 @@
 # AoC
-Exercices from the Avent of Code.
+Exercices from the Advent of Code.
+
+2023 - Python
